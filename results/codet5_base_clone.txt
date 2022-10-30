@@ -1,0 +1,9 @@
+[Time: 33h25m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_lora0_0_0_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9475, precision: 0.9590, recall: 0.9362
+
+[Time: 33h56m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1__seed2/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9477, precision: 0.9627, recall: 0.9331
+
+[Time: 33h34m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1__seed3/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9417, precision: 0.9505, recall: 0.9331
+

@@ -1,0 +1,34 @@
+[Time: 6h56m] saved_models/concode/plbart_all_lr10_bs24_src320_trg150_pat3_e30_L_16_1_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 25.77, em: 18.5000, codebleu: 33.0135
+[Time: 9h11m] saved_models/concode/plbart_all_lr10_bs24_src320_trg150_pat3_e30_L_16_4_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 28.03, em: 19.4000, codebleu: 35.2258
+[Time: 10h29m] saved_models/concode/plbart_all_lr10_bs24_src320_trg150_pat3_e30_L_16_8_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 29.11, em: 19.7500, codebleu: 36.6019
+[Time: 14h36m] saved_models/concode/plbart_all_lr10_bs24_src320_trg150_pat3_e30_L_16_2_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 28.37, em: 19.1500, codebleu: 33.7314
+[Time: 12h29m] saved_models/concode/plbart_all_lr10_bs24_src320_trg150_pat3_e30_L_16_16_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 29.86, em: 20.1500, codebleu: 37.4502
+[Time: 5h49m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_16_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.28, em: 19.3500, codebleu: 35.1840
+[Time: 13h59m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_4_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 25.75, em: 19.2000, codebleu: 34.8843
+[Time: 14h14m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_8_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.70, em: 19.2000, codebleu: 34.6994
+[Time: 14h17m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_2_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 24.44, em: 18.9500, codebleu: 33.9730
+[Time: 14h22m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_1_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 23.73, em: 18.2000, codebleu: 32.9043
+[Time: 14h29m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_32_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.65, em: 19.2500, codebleu: 35.4023
+[Time: 14h36m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_64_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.44, em: 19.4000, codebleu: 35.2875
+[Time: 14h44m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_128_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.42, em: 19.1500, codebleu: 35.6235
+[Time: 15h20m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_256_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.74, em: 19.2000, codebleu: 35.2709
+[Time: 16h35m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_512_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.55, em: 19.4000, codebleu: 35.3583
+[Time: 13h51m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_8_seed2/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.03, em: 19.2500, codebleu: 35.0427
+[Time: 13h53m] saved_models/concode/plbart_all_lr3_bs32_src320_trg150_pat3_e30_L_16_8_seed3/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 26.61, em: 19.1500, codebleu: 34.9746

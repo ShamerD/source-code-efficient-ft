@@ -1,0 +1,21 @@
+[Time: 14h47m] saved_models/clone/plbart_all_lr3_bs12_src350_trg350_pat2_e1_A_h_1_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9257, precision: 0.9008, recall: 0.9521
+
+[Time: 15h5m] saved_models/clone/plbart_all_lr3_bs12_src350_trg350_pat2_e1_A_h_2_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9314, precision: 0.9055, recall: 0.9589
+
+[Time: 14h54m] saved_models/clone/plbart_all_lr3_bs12_src350_trg350_pat2_e1_A_h_4_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9257, precision: 0.9043, recall: 0.9482
+
+[Time: 14h47m] saved_models/clone/plbart_all_lr3_bs12_src350_trg350_pat2_e1_A_h_8_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9214, precision: 0.9034, recall: 0.9401
+
+[Time: 14h48m] saved_models/clone/plbart_all_lr3_bs12_src350_trg350_pat2_e1_A_h_16_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9231, precision: 0.9111, recall: 0.9354
+
+[Time: 14h43m] saved_models/clone/plbart_all_lr3_bs12_src350_trg350_pat2_e1_A_h_8_seed2/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9284, precision: 0.9089, recall: 0.9488
+
+[Time: 14h47m] saved_models/clone/plbart_all_lr3_bs12_src350_trg350_pat2_e1_A_h_8_seed3/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9249, precision: 0.9107, recall: 0.9394
+

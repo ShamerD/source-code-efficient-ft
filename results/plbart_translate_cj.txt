@@ -1,0 +1,6 @@
+[Time: 2h39m] saved_models/translate/cs-java/plbart_all_lr3_bs32_src256_trg200_pat5_e100__seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 78.89, em: 64.8000, codebleu: 84.2768
+[Time: 2h31m] saved_models/translate/cs-java/plbart_all_lr3_bs32_src256_trg200_pat5_e100__seed2/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 78.53, em: 64.6000, codebleu: 83.9557
+[Time: 2h28m] saved_models/translate/cs-java/plbart_all_lr3_bs32_src256_trg200_pat5_e100__seed3/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 78.38, em: 64.7000, codebleu: 84.1182

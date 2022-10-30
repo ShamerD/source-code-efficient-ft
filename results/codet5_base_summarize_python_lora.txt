@@ -1,0 +1,14 @@
+[Time: 22h29m] saved_models/summarize/python/codet5_base_all_lr5_bs32_src256_trg128_pat2_e15_lora1_16_8_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 20.36, em: 1.7831, codebleu: 0.0000
+[Time: 21h47m] saved_models/summarize/python/codet5_base_all_lr5_bs32_src256_trg128_pat2_e15_lora1_16_1_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 20.31, em: 1.7563, codebleu: 0.0000
+[Time: 22h12m] saved_models/summarize/python/codet5_base_all_lr5_bs32_src256_trg128_pat2_e15_lora1_16_16_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 20.37, em: 1.7898, codebleu: 0.0000
+[Time: 22h23m] saved_models/summarize/python/codet5_base_all_lr5_bs32_src256_trg128_pat2_e15_lora1_16_2_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 20.41, em: 1.7496, codebleu: 0.0000
+[Time: 22h23m] saved_models/summarize/python/codet5_base_all_lr5_bs32_src256_trg128_pat2_e15_lora1_16_4_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 20.31, em: 1.7295, codebleu: 0.0000
+[Time: 22h12m] saved_models/summarize/python/codet5_base_all_lr5_bs32_src256_trg128_pat2_e15_L_16_2_seed2/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 20.37, em: 1.7496, codebleu: 0.0000
+[Time: 22h8m] saved_models/summarize/python/codet5_base_all_lr5_bs32_src256_trg128_pat2_e15_L_16_2_seed3/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 20.29, em: 1.7362, codebleu: 0.0000

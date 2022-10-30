@@ -1,0 +1,21 @@
+[Time: 28h22m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_FL_16_1_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9244, precision: 0.8954, recall: 0.9554
+
+[Time: 28h40m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_FL_16_2_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9268, precision: 0.9083, recall: 0.9461
+
+[Time: 28h43m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_FL_16_4_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9294, precision: 0.9153, recall: 0.9440
+
+[Time: 28h22m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_FL_16_8_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9322, precision: 0.9090, recall: 0.9567
+
+[Time: 28h52m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_FL_16_16_seed1/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9274, precision: 0.9138, recall: 0.9415
+
+[Time: 28h52m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_FL_16_8_seed2/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9280, precision: 0.9137, recall: 0.9429
+
+[Time: 29h4m] saved_models/clone/codet5_base_all_lr5_bs8_src350_trg350_pat2_e1_FL_16_8_seed3/checkpoint-best-f1/pytorch_model.bin
+[best-f1] f1: 0.9318, precision: 0.9138, recall: 0.9505
+

@@ -1,0 +1,2 @@
+[Time: 3h9m] saved_models/translate/cs-java/codet5_base_all_lr5_bs25_src256_trg200_pat5_e100__seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 78.74, em: 65.9000, codebleu: 84.0516

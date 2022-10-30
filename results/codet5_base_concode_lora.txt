@@ -1,0 +1,28 @@
+[Time: 26h5m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_lora1_16_8_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 33.53, em: 21.2000, codebleu: 38.0832
+[Time: 26h43m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_lora1_16_4_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 33.95, em: 21.3500, codebleu: 37.2069
+[Time: 27h43m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_lora1_16_16_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.61, em: 21.7000, codebleu: 38.6809
+[Time: 21h45m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_lora1_16_1_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 30.66, em: 20.1500, codebleu: 34.9904
+[Time: 28h44m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_lora1_16_2_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 33.34, em: 21.0000, codebleu: 36.9923
+[Time: 30h0m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_64_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.80, em: 21.9500, codebleu: 38.9079
+[Time: 31h31m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_256_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 35.56, em: 21.6500, codebleu: 39.1401
+[Time: 34h15m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_512_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.97, em: 21.4000, codebleu: 38.9543
+[Time: 28h40m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_32_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.63, em: 21.5500, codebleu: 38.7565
+[Time: 27h50m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_16_seed3/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 33.58, em: 21.2500, codebleu: 38.2272
+[Time: 29h30m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_128_seed1/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.43, em: 21.7500, codebleu: 39.0297
+[Time: 28h31m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_16_seed2/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.96, em: 21.8000, codebleu: 38.7467
+[Time: 33h59m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_512_seed2/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.76, em: 21.9000, codebleu: 39.1618
+[Time: 33h59m] saved_models/concode/codet5_base_all_lr10_bs24_src320_trg150_pat3_e30_L_16_512_seed3/checkpoint-best-bleu/pytorch_model.bin
+[best-bleu] bleu-4: 34.68, em: 21.2500, codebleu: 38.9159
